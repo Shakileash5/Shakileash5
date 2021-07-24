@@ -25,8 +25,9 @@ Software Engineer.
   <code><img height="40" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
   <code><img height="40" src="https://iconape.com/wp-content/files/ap/353147/png/c-programming-language-logo.png"></code>
 
--  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+-  <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/django-11-1175036.png"></code>
+   <code><img height="40" src="https://cfrichardson.info/static/flasks.png"></code>
+   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
@@ -55,5 +56,5 @@ Software Engineer.
 
 
 ## 📧 Contact me
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](shakileash2000@gmail.com)  [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shakileash-chinraj-232139170/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shakileash2000@gmail.com)  [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/shakileash-chinraj-232139170/)
 
