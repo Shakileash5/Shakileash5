@@ -35,9 +35,9 @@ Software Engineer.
   <code><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-png-transparent.png"></code>
   <code><img height="40" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png"></code>
 
--  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+-  <code><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-png-transparent.png"></code> 
+   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
+   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 
 
 ## 📈 My GitHub Stats
